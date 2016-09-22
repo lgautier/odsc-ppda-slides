@@ -17,4 +17,4 @@ cd odsc-ppda-slides
 4- Open a notebook
 
 
-Optionally, open the file `slides/index.html` in a browser.
+The slides are at http://lgautier.github.io/odsc-ppda-slides/
