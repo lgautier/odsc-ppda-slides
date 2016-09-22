@@ -15,3 +15,6 @@ cd odsc-ppda-slides
 ```
 
 4- Open a notebook
+
+
+Optionally, open the file `slides/index.html` in a browser.
